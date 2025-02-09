@@ -182,3 +182,5 @@ fabric.properties
 .idea
 
 /tests
+
+/data
